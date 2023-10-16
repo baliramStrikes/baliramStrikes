@@ -1,0 +1,188 @@
+{
+  "firstName": "Amit",
+  "lastName": "Verma",
+  "email": "amit.verma@example.com",
+  "phone": "+91 9876543210",
+  "city": "New Delhi",
+  "state": "Delhi",
+  "country": "India",
+  "bio": "Hello, I'm Amit Verma, a passionate self-taught Machine Learning developer with a focus on creating intelligent and data-driven applications. My journey in machine learning and AI began with a curiosity to explore the endless possibilities of intelligent algorithms and data analysis. Through a combination of self-initiated projects and continuous learning, I've developed a deep understanding of machine learning, deep learning, and artificial intelligence. I am dedicated to delivering high-quality solutions that harness the power of data and provide valuable insights. Collaboration and teamwork are key aspects of my development process, and I thrive in environments where I can learn from others while contributing my skills effectively. I hold a Master's degree in Computer Science from XYZ University, where I conducted research in machine learning and deep learning. My academic background further fueled my passion for AI and equipped me with the necessary skills to excel in the field.\n\nThroughout my journey, I've had the opportunity to work on a variety of machine learning projects that have honed my technical skills and problem-solving abilities. From developing recommendation systems to building natural language processing models, each project has contributed to my growth as a Machine Learning developer.\nI'm committed to continuous learning and actively contribute to open-source machine learning projects on GitHub. This constant exploration of new technologies and resources keeps me at the forefront of the ever-evolving field of machine learning.\n\n\nIn my free time, I enjoy working on personal machine learning projects to explore new algorithms and gain practical experience. I'm always enthusiastic about collaborating with like-minded individuals and contributing my expertise to meaningful AI projects.\nMy ultimate goal is to make a positive impact through intelligent solutions, and I'm excited about the limitless possibilities in the world of machine learning. Let's create something remarkable together! Feel free to explore my portfolio to see some of the projects I've worked on, and let's connect to discuss how I can contribute to your next machine learning endeavor.",
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "Deep Learning",
+    "Natural Language Processing",
+    "Computer Vision",
+    "TensorFlow",
+    "PyTorch",
+    "Data Science",
+    "Data Analysis",
+    "Big Data",
+    "Feature Engineering",
+    "Model Evaluation",
+    "Neural Networks",
+    "Data Visualization"
+  ],
+  "commonSkills": [
+    "Git/GitHub",
+    "Data Engineering",
+    "Data Modeling",
+    "Statistics",
+    "AI Ethics",
+    "Scikit-Learn",
+    "Jupyter Notebooks"
+  ],
+  "social": [
+    {
+      "id": "github",
+      "title": "GitHub",
+      "href": "https://github.com/0me9a"
+    },
+    {
+      "id": "linkedin",
+      "title": "LinkedIn",
+      "href": "https://www.linkedin.com/in/baliram-singh/"
+    },
+    {
+      "id": "front-end-mentor",
+      "title": "Front-end Mentor",
+      "href": "https://www.frontendmentor.io/profile/0ME9A"
+    },
+    {
+      "id": "twitter",
+      "title": "Twitter",
+      "href": "https://twitter.com/omegaStrikes"
+    },
+    {
+      "id": "figma",
+      "title": "Figma",
+      "href": "https://figma.com/@ome9a"
+    }
+  ],
+  "resumeUrl": "https://github.com/0ME9A/projects-asset/blob/c4a18a4765de51445fb174b4cdf341895dc00b35/baliram/baliram_org.pdf",
+  "profileImgUrl": "https://raw.githubusercontent.com/0ME9A/projects-asset/main/baliram/imgs/profile.jpg",
+  "bannerUrl": "https://raw.githubusercontent.com/0ME9A/projects-asset/main/baliram/imgs/react-banner.jpg",
+  "certificates": [
+    {
+      "id": "freecodecamp",
+      "source": "FreeCodeCamp",
+      "total": 2,
+      "certs": [
+        {
+          "name": "JavaScript Algorithms and Data Structures",
+          "url": "https://www.freecodecamp.org/certification/ome9a/javascript-algorithms-and-data-structures",
+          "previewUrl": "https://raw.githubusercontent.com/0ME9A/projects-asset/main/baliram/imgs/certs/javascript-algorithms-and-data-structures.png"
+        },
+        {
+          "name": "Front-end Development Libraries",
+          "url": "https://www.freecodecamp.org/certification/ome9a/front-end-development-libraries",
+          "previewUrl": "https://raw.githubusercontent.com/0ME9A/projects-asset/main/baliram/imgs/certs/front-end-development-libraries.png"
+        }
+      ]
+    },
+    {
+      "id": "hacker-rank",
+      "source": "Hacker Rank",
+      "total": 2,
+      "certs": [
+        {
+          "name": "HackerRank CSS",
+          "url": "https://www.hackerrank.com/certificates/43529ca6687e",
+          "previewUrl": "https://raw.githubusercontent.com/0ME9A/projects-asset/main/baliram/imgs/certs/hacker-rank-css.png"
+        },
+        {
+          "name": "HackerRank JS Basic",
+          "url": "https://www.hackerrank.com/certificates/96b7845c0eed",
+          "previewUrl": "https://raw.githubusercontent.com/0ME9A/projects-asset/main/baliram/imgs/certs/hacker-rank-js-basic.png"
+        }
+      ]
+    }
+  ],
+  "languages": ["Hindi", "English", "Spanish"],
+  "portfolio": {
+    "url": "https://api.github.com/users/0me9a/repos?per_page=100",
+    "thumbnailPath": "https://raw.githubusercontent.com/0ME9A/projects-asset/main/thumb/",
+    "repoFilterKeywords": [
+      {
+        "id": "machine-learning",
+        "title": "Machine Learning",
+        "important": true
+      },
+      {
+        "id": "deep-learning",
+        "title": "Deep Learning",
+        "important": true
+      },
+      {
+        "id": "nlp",
+        "title": "Natural Language Processing",
+        "important": true
+      },
+      {
+        "id": "computer-vision",
+        "title": "Computer Vision",
+        "important": true
+      },
+      {
+        "id": "data-science",
+        "title": "Data Science",
+        "important": true
+      },
+      {
+        "id": "tensorflow",
+        "title": "TensorFlow",
+        "important": true
+      },
+      {
+        "id": "pytorch",
+        "title": "PyTorch",
+        "important": true
+      },
+      {
+        "id": "big-data",
+        "title": "Big Data",
+        "important": true
+      },
+      {
+        "id": "neural-networks",
+        "title": "Neural Networks",
+        "important": true
+      },
+      {
+        "id": "data-visualization",
+        "title": "Data Visualization",
+        "important": true
+      },
+      {
+        "id": "machine-learning-projects",
+        "title": "ML Projects",
+        "important": true
+      },
+      {
+        "id": "python",
+        "title": "Python",
+        "important": true
+      },
+      {
+        "id": "open-source",
+        "title": "Open Source",
+        "important": true
+      },
+      {
+        "id": "github",
+        "title": "GitHub",
+        "important": true
+      },
+      {
+        "id": "ai-ethics",
+        "title": "AI Ethics",
+        "important": true
+      },
+      {
+        "id": "jupyter-notebooks",
+        "title": "Jupyter Notebooks",
+        "important": true
+      }
+    ]
+  }
+}
